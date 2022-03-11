@@ -24,4 +24,5 @@ Moro em Contagem-MG 🌐
 
 - Twitter @pedrohenrique
 - GitHub @gitstaart
+- LinkedIn: phrlacerda
 - Email contato@pedrolacerda.me
