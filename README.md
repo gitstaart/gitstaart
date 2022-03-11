@@ -4,7 +4,7 @@ Olá, eu sou o Pedro Lacerda, aluno do curso Staart
 
 ![octocat-14](https://user-images.githubusercontent.com/101407856/157886444-2fb8254d-d30a-4412-87ba-9f13c38c0414.png)
 
-Moro em Contagem-MG 🌐
+Moro em Belo Horizonte-MG 🌐
 
 ## Meus hobbies
 
