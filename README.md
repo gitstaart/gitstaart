@@ -1,6 +1,10 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Pedro Lacerda
+Olá, eu sou o Pedro Lacerda, aluno do curso Staart
+
+![octocat-14](https://user-images.githubusercontent.com/101407856/157886444-2fb8254d-d30a-4412-87ba-9f13c38c0414.png)
+
+Moro em Contagem-MG 🌐
 
 ## Meus hobbies
 
@@ -8,6 +12,7 @@ Olá, eu sou o Pedro Lacerda
 - Jogar videogame
 - Cozinhar
 - Assistir séries
+- Assistir reality shows
 
 ## Atualmente estudando
 
@@ -19,5 +24,5 @@ Olá, eu sou o Pedro Lacerda
 
 - Twitter @pedrohenrique
 - GitHub @gitstaart
-- Instagram @phrlacerda
+- LinkedIn: phrlacerda
 - Email contato@pedrolacerda.me
