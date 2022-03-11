@@ -2,6 +2,11 @@
 
 Olá, eu sou o Pedro Lacerda, aluno do curso Staart
 
+[![Pedro's GitHub stats](https://github-readme-
+stats.vercel.app/api?username=gitstaart&show_icons=true&theme=radical)](https
+://github.com/anuraghazra/github-readme-stats)
+
+
 ![octocat-14](https://user-images.githubusercontent.com/101407856/157886444-2fb8254d-d30a-4412-87ba-9f13c38c0414.png)
 
 Moro em Belo Horizonte-MG 🌐
