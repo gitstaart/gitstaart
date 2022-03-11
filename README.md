@@ -1,14 +1,28 @@
 # Bem vindo(a) ao meu perfil
-Olá, eu sou o Pedro Lacerda, aluno curso STAART
 
-![octocat-27](https://user-images.githubusercontent.com/101412074/157898612-f7df7d9d-82cd-4af8-b5f2-6701cba92985.png)
+Olá, eu sou o Pedro Lacerda, aluno do curso Staart
 
-Moro no Uzbequistão 🇺🇿
+![octocat-14](https://user-images.githubusercontent.com/101407856/157886444-2fb8254d-d30a-4412-87ba-9f13c38c0414.png)
+
+Moro em Contagem-MG 🌐
 
 ## Meus hobbies
-- Rever o 7 x 1 toda semana
-- Jogar futebol
-- Torcer pra Alemanha
-- 
+
+- Ler
+- Jogar videogame
+- Cozinhar
+- Assistir séries
+- Assistir reality shows
+
 ## Atualmente estudando
-- Alemão
+
+- Git e GitHub
+- React
+- Javascript e Typescript
+
+## Meus contatos
+
+- Twitter @pedrohenrique
+- GitHub @gitstaart
+- LinkedIn: phrlacerda
+- Email contato@pedrolacerda.me
