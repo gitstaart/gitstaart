@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Pedro Lacerda, aluno do curso Staart
+Olá, eu sou o Pedro Lacerda, aluno do curso da plataforma Staart
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitstaart&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
